@@ -1,0 +1,5 @@
+enrollment_number,first_name,last_name,email,phone,date_of_birth,gender,address,city,state,zipcode
+22J21A0001,Alice,Johnson,alice.johnson@example.com,9876543212,2002-03-10,F,789 Pine St,Bangalore,Karnataka,560001
+22J21A0002,Bob,Wilson,bob.wilson@example.com,9876543213,2001-11-25,M,321 Elm St,Chennai,Tamil Nadu,600001
+22J21A0003,Carol,Brown,carol.brown@example.com,9876543214,2002-07-08,F,654 Maple Ave,Pune,Maharashtra,411001
+22J21A0004,David,Davis,david.davis@example.com,9876543215,2001-12-30,M,987 Cedar Ln,Kolkata,West Bengal,700001
